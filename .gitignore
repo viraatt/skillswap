@@ -1,0 +1,23 @@
+cat << 'EOF' > .gitignore
+# Dependencies
+node_modules/
+.pnp
+.pnp.js
+
+# Environment and Keys
+.env
+.env.local
+serviceAccountKey.json
+
+# Build outputs
+dist/
+build/
+
+# Logs & Editor folders
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.DS_Store
+.vscode/
+.idea/
+EOF
