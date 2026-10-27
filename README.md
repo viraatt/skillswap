@@ -1,4 +1,4 @@
-# SkillSwap (Codeforces / CSES Minimalist Edition)
+# SkillSwap 
 
 SkillSwap is an ultra-lightweight, zero-bloat peer-to-peer skill barter platform. It removes transactional monetary overhead by allowing developers and learners to trade knowledge directly through a time-credit ledger.
 
